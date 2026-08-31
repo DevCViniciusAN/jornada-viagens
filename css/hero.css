@@ -4,3 +4,12 @@
   background: url(../img/hero720-mobile.png) no-repeat;
   background-size: cover;
 }
+
+@media screen and (min-widht: 768px) {
+  .hero-img {
+    height: 720px;
+    width: 100%;
+    background: url(../img/hero-1080-tablet.png) no-repeat;
+    background-size: cover;
+  }
+}
